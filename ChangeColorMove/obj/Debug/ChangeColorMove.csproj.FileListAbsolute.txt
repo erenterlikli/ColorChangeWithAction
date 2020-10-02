@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\bin\Debug\ChangeColorMove.exe.config
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\bin\Debug\ChangeColorMove.exe
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\bin\Debug\ChangeColorMove.pdb
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.Form1.resources
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.Properties.Resources.resources
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.exe
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.pdb
+C:\Users\Eren\source\repos\ChangeColorMove\ChangeColorMove\obj\Debug\ChangeColorMove.csprojAssemblyReference.cache
